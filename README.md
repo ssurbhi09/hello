@@ -1,5 +1,5 @@
 # Hello
-This Repository contains, how the print the string "Hello World" in different Programming languages.
+This Repository contains, how to the print the string "Hello World" in different Programming languages.
 
 
 # Languages
