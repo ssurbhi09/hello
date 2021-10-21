@@ -8,4 +8,5 @@ This Repository contains, how to the print the string "Hello World" in different
 * Java
 * HTML
 * Ruby
-* Class
+* C
+*Typescript
