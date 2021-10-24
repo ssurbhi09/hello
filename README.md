@@ -2,7 +2,7 @@
 This Repository contains, how to the print the string "Hello World" in different Programming languages.
 
 
-# Languages
+## Languages
 * c++
 * C
 * Python
